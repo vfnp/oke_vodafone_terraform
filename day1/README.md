@@ -27,3 +27,16 @@ sudo yum -y install terraform
 Terraform v1.6.4
 on linux_amd64
 ```
+
+### provider  / target in terraform 
+
+[click_here](https://registry.terraform.io/browse/providers)
+
+### Oracle cloud tenant and compartment understanding 
+
+<img src="oci.png">
+
+### more info 
+
+<img src="info.png">
+
